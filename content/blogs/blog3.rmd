@@ -1,0 +1,14 @@
+---
+categories:
+- ""
+- ""
+date: "2017-10-31T22:26:13-05:00"
+description: 
+draft: false
+image: CV.jpg
+keywords: ""
+slug: cv
+title: CV
+---
+
+Pictured above is a copy of my latest CV. Whilst not a full representation of all of my Work Experiences I believe it gives a well-rounded view of what I have achieved in my career thus far.

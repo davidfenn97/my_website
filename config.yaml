@@ -1,0 +1,96 @@
+baseURL: https://davidfenn.netlify.app/
+languageCode: en-us
+title: Portfolio website for David Fenn
+theme: forty
+googleAnalytics: ''
+disqusShortname: ''
+params:
+  banner: 
+    buttonText: Whos is David Fenn
+    subtitle: |-
+      This site is all about me, if you want to get in touch, please do!
+    title: Hi, my name is David Fenn, this is my Website !
+  blog: {}
+  contact:
+    address:
+      - city: Clapham, London
+        country: United Kingdom
+        street: 205 Nash House, Poynders Gardens 
+        title: Address
+    buttonClear: Clear
+    buttonSend: Send message
+    email:
+      - email: dfenn.mfa2022@london.edu
+        title: Email
+    enable: yes
+    phone:
+      - phone: (+44) 7575551904
+        title: Phone
+  custom_css: []
+  custom_js: []
+  description: Insert CV
+  error404:
+    heading: Page couldn't be found
+    text: Please visit [this page](/)
+  favicon: favicon.ico
+  footer:
+    copyright: David Fenn
+    enable: yes
+    quicklinks:
+      - alt: 
+        text: 'London Business School'
+        url: 
+    social:
+      - icon: fa-github
+        label: GitHub
+        url: https://www.github.com/davidfenn97
+      - icon: fa-linkedin
+        label: LinkedIn
+        url: https://www.linkedin.com/in/davidfenn121
+  image: ''
+  name: Your name
+  navigation:
+    button1:
+      - name: Get Started
+        url: blogs
+    links:
+      - name: Home
+        url: '#'
+      - name: About David
+        url: blogs/about
+    menu: Menu
+    subtitle: By HTML5 Up
+    title: Forty
+  tiles:
+    enable: yes
+    showcase:
+      - image: doha.jpg
+        subtitle: Where I've been!
+        title: Travel
+        url: blogs/travel
+      - image: horseracing.jpg
+        subtitle: The Sports I enjoy!
+        title: Sports
+        url: blogs/sports
+      - image: graduation.jpg
+        subtitle: Where I have studied!
+        title: Learning
+        url: blogs/learning
+      - image: amentum.jpg
+        subtitle: My Experience to date!
+        title: CV
+        url: blogs/cv
+      - image: canarywharf.jpg
+        subtitle: Where I would like to go from here!
+        title: Future Career
+        url: blogs/fc
+      - image: ski.jpg
+        subtitle: Favourite Foods TV Shows Etc.
+        title: Other Hobbies
+        url: blogs/oh
+  two:
+    buttonText: Get Started
+    enable: no
+    subtitle: "Born in Dublin, Ireland David is 24 years old and enjoys a wide array of activities"
+    title: Who is David Fenn?
+    url: blogs

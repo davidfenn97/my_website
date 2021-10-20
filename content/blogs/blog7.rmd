@@ -1,0 +1,21 @@
+---
+categories:
+- ""
+- ""
+date: "2017-10-31T22:42:51-05:00"
+description: Some of my favourite places that I have been and seen
+draft: false
+image: lbs.jpg
+keywords: ""
+slug: learning
+title: Learnings
+---
+
+I have had the privilege of studying in some fine institutions. For my secondary education, I attended Blackrock College in Dublin. 
+
+After leaving Blackrock in 2016, I then enrolled in Univesity College Dublin where I studied Business & Law, graduating in 2020.
+
+During my year break before coming to LBS, I also completed Level 1 of the CFA exams.
+
+I am now studying in London Business School for a Masters in Financial Analysis. 
+
