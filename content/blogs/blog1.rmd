@@ -11,9 +11,5 @@ slug: about
 title: David Fenn
 ---
 
-This is 
-
-```{r}
-
-```
+This is me David, I am 24 years old from Dublin, Ireland. I moved over in August to study for a Masters in Financial Analysis in London Business School. 
 

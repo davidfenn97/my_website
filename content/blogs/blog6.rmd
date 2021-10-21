@@ -3,13 +3,13 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-description: Some of my favourite places that I have been and seen
+description: "The cultivation of a hobby and new forms of interest is a policy of first importance to a public man"
 draft: false
-image: elephant3.jpg
+image: taylor.jpg
 keywords: ""
 slug: oh
 title: Other Hobbies
 ---
 
-My Hobbies
+Aside from all of the other activities included above, some of the other things which I enjoy watching Netflix, scrolling through twitter or listening to my favourite artist Taylor Swift
 

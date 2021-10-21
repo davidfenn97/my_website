@@ -3,7 +3,7 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-description: Some of my favourite places that I have been and seen
+description: "Education is not preparation for life; education is life itself."
 draft: false
 image: lbs.jpg
 keywords: ""

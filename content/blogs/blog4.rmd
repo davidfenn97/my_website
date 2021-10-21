@@ -3,12 +3,15 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-description: Some of my favourite places that I have been and seen
+description: "Jobs fill your pockets, but adventure fills your soul"
 draft: false
 image: elephant3.jpg
 keywords: ""
 slug: Travel
 title: Travel
 ---
+I am fortunate to have done lots of travel.It has always been a passion of mine.
+    
+Over the last few years I have had the privilege of Inter-railing across Europe twice, backpacking South East Asia, visiting the US, travelling extensively across France, Spain and Portugal and even got to visit the Blue Lagoon in Iceland.
 
-I've had the privilege of doing lots of travel
+Now that restrictions are lifting I am very excited to get back out and see the world again.

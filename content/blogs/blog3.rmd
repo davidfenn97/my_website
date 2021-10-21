@@ -3,7 +3,7 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:26:13-05:00"
-description: 
+description: "Make it simple, but significant"
 draft: false
 image: CV.jpg
 keywords: ""

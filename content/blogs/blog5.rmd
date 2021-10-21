@@ -3,12 +3,13 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-description: Some of my favourite places that I have been and seen
+description: "Life begins at the end of your comfort zone"
 draft: false
-image: elephant3.jpg
+image: handshake.jpg
 keywords: ""
-slug: Travel
-title: Travel
+slug: fc
+title: Future Career
 ---
 
-I've had the privilege of doing lots of travel
+It is my long-term goal to break into Investment Banking. It is my hope that I will be able to use my Data Analytics skills learned in the course in a long successful career in finance.
+
